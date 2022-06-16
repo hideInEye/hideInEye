@@ -6,7 +6,7 @@
 > Life is sweet before bitter, bitter before sweet.
 
 <p style="font-size:12px">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  I'm Haibin Zang, Front end engineer from China. This is my favorite interest. and I prefer to learn new skills...
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40">  I'm Haibin Zang, Front end engineer from China. This is my favorite interest. and I prefer to learn new skills...
 </p>
 
 ![profile views](https://komarev.com/ghpvc/?username=hideInEye&style=plastic)
