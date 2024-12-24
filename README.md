@@ -1,6 +1,6 @@
 <h4 style="display:flex;align-items:center">
   <img style="border-radius:50%;margin-right:10px" src="/assets/juvenile.jpeg" alt="Hi" width="" height="50" />
-  <span>人生,先甜后苦,先苦后甜. ---不渝的少年</span>
+  <span>am i，i am</span>
 </h4>
 
 > Life is sweet before bitter, bitter before sweet.
